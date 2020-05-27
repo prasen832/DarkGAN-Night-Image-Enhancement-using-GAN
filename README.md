@@ -16,7 +16,7 @@ The following image shows some results of our method on See In The Dark Dataset.
 
 ![Results](Results.png)
 
-The image below shows effectiveness of our method on images captured by mobile phone in our institute campus.
+The image below shows effectiveness of our method on images captured by mobile phone in our institute's campus.
 
 ![campus](campus.png)
 
