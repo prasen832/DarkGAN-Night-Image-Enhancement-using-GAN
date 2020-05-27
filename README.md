@@ -12,11 +12,11 @@ the proposed model compared with other state-of-the-art methods. The proposed me
 yields comparable better results on qualitative and quantitative assessments when compared
 with the existing methods.
 
-The following image shows some results of our method on See In The Dark Dataset. 
+The following images shows some results of our method on See In The Dark Dataset. 
 
 ![Results](Results.png)
 
-The image below shows effectiveness of our method on images captured by mobile phone in our institute's campus.
+The images below shows effectiveness of our method on images captured by mobile phone in our institute's campus.
 
 ![campus](campus.png)
 
