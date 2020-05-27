@@ -12,5 +12,7 @@ the proposed model compared with other state-of-the-art methods. The proposed me
 yields comparable better results on qualitative and quantitative assessments when compared
 with the existing methods.
 
+![Results](Results.png)
+
 1. A research paper is going to publish on this work very soon.
 2. Once the research paper is published all data including code will be available here
