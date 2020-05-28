@@ -21,4 +21,4 @@ The images below shows effectiveness of our method on images captured by mobile 
 ![campus](campus.png)
 
 1. A research paper is going to publish on this work very soon.
-2. Once the research paper is published all data including code will be available here
+2. Once the research paper is published all data including code will be available here.
