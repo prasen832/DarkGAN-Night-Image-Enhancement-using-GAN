@@ -1,4 +1,4 @@
-# DarkGAN: Night-Image-Enhancement-using-Generative Adversarial Network
+# DarkGAN: Night-Image-Enhancement-using-Generative Adversarial Networks
 
 Low light image enhancement is one of the challenging tasks in computer vision, and
 it becomes more difficult when images are very dark. Recently, most of low light image
