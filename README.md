@@ -20,5 +20,5 @@ The images below shows effectiveness of our method on images captured by mobile 
 
 ![campus](campus.png)
 
-1. A research paper is going to publish on this work very soon.
-2. Once the research paper is published all data including code will be available here.
+1. This project work is published in springer as a research paper.
+2. [Link](https://link.springer.com/chapter/10.1007/978-981-16-1086-8_26) to view the research paper
