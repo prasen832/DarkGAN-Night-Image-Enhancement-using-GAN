@@ -22,6 +22,3 @@ with the existing methods.
 
 ![campus](campus.png)
 
-1. This project work is presented as a paper at International conference on Computer Vision and Image Processing (2020) and is published at Springer.
-
-2. [Link](https://link.springer.com/chapter/10.1007/978-981-16-1086-8_26) to view the research paper
