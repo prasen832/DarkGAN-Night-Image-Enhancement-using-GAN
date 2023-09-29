@@ -1,4 +1,4 @@
-# DarkGAN: Night-Image-Enhancement-using-Generative Adversarial Networks
+# DarkGAN: Night Image Enhancement using Generative Adversarial Networks
 
 ## [Link](https://link.springer.com/chapter/10.1007/978-981-16-1086-8_26) to view the research paper
 
