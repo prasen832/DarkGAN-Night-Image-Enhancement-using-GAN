@@ -1,6 +1,8 @@
 # DarkGAN: Night Image Enhancement using Generative Adversarial Networks
 
-## [Link](https://link.springer.com/chapter/10.1007/978-981-16-1086-8_26) to view the research paper
+## [Link](https://link.springer.com/chapter/10.1007/978-981-16-1086-8_26) to view the research paper.
+
+### The Research Paper pdf is also uploaded here.
 
 **Low light image enhancement** is one of the **challenging tasks** in **computer vision**, and
 it becomes more difficult when images are very dark. Recently, most of low light image
