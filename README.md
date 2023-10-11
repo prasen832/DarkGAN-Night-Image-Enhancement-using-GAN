@@ -18,6 +18,18 @@ the proposed model** compared with other **state-of-the-art methods**. The propo
 yields comparable **better results** on **qualitative** and **quantitative** assessments when compared
 with the existing methods.
 
+## Publications
+
+Prasen Alaspure, Praful Hambarde, Akshay Dudhane and Subrahmanyam
+Murala, ”DarkGAN: Night Image Enhancement using Generative Adversarial
+Networks”, International Conference on Computer Vision and Image
+Processing (2020).
+The Research Paper is published at Springer.
+
+**[Link](https://link.springer.com/chapter/10.1007/978-981-16-1086-8_26) to view the research paper.**
+
+***The Research Paper pdf is also uploaded here.**
+
 ## The following images show some results of our method on See In The Dark Dataset. 
 
 ![Results](Results.png)
@@ -25,4 +37,5 @@ with the existing methods.
 ## The images below shows the effectiveness of our method on images captured by mobile phone in our institute's campus.
 
 ![campus](campus.png)
+
 
