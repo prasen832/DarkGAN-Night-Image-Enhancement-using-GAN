@@ -1,9 +1,5 @@
 # DarkGAN: Night Image Enhancement using Generative Adversarial Networks
 
-## [Link](https://link.springer.com/chapter/10.1007/978-981-16-1086-8_26) to view the research paper.
-
-### The Research Paper pdf is also uploaded here.
-
 ## Abstract 
 
 **Low light image enhancement** is one of the **challenging tasks** in **computer vision**, and
@@ -28,7 +24,7 @@ The Research Paper is published at Springer.
 
 **[Link](https://link.springer.com/chapter/10.1007/978-981-16-1086-8_26) to view the research paper.**
 
-***The Research Paper pdf is also uploaded here.**
+***The Research Paper pdf is also uploaded here.***
 
 ## The following images show some results of our method on See In The Dark Dataset. 
 
