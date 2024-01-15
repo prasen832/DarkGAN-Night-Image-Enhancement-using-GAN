@@ -35,4 +35,4 @@ The Research Paper is published at Springer.
 ![campus](campus.png)
 
 
-### Now, let's jump into the Jupyter Notebook and begin the Coding work.
+### Now, let's jump into the Jupyter Notebook and take a look at the Python Code Implementation.
